@@ -2,16 +2,6 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
 
-    <style>
-        body {
-            background-image: url('/images/space-background.jpg');
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-            background-attachment: fixed;
-        }
-    </style>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title', 'Filmora')</title>
@@ -21,6 +11,7 @@
 
     <!-- Ajout de Tailwind (optionnel) -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+    
 </head>
 <body>
 
