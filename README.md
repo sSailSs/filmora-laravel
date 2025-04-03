@@ -4,8 +4,6 @@ Filmora est une application web développée avec le framework Laravel. Elle per
 
 Ce projet fait suite à une refonte complète de l’ancien projet Planétaria, en adaptant toute la structure pour une gestion de contenus liés au cinéma.
 
- → Code source Laravel du projet └── README.md → Fichier de présentation
-
 ---
 
 ## Fonctionnalités principales
