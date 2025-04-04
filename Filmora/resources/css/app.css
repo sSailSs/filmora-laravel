@@ -26,14 +26,7 @@
 }
 
 /* Contenu */
-.container {
-    max-width: 1200px;
-    margin: 100px auto 20px auto;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.7);
-    border-radius: 10px;
-    overflow: hidden;
-}
+
 
 /* Boutons */
 .btn {
